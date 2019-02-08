@@ -1,0 +1,271 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"compu",
+				"computer_choice"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "\tnames = []\nfor _ in range(5):\n    name = input(\"Please enter the name of someone you know. \")\n    names.append(name)\n\n# @TODO: Use a list comprehension to create a list of lowercased names\nlowercased = [\"YOUR CODE HERE!\"]\n\n# @TODO: Use a list comprehension to create a list of titlecased names\n# https://www.tutorialspoint.com/python/string_title.htm\ntitlecased = [\"YOUR CODE HERE!\"]\n\ninvitations = [\n    f\"Dear {name}, please come to the wedding this Saturday!\" for name in titlecased]\n\nfor invitation in invitations:\n    print(invitation)\n",
+			"file": "/C/Users/jasmi/LocalGit/class-content/03-Python/3/Activities/05-Stu_List_Comprehensions/Unsolved/comprehensions.py",
+			"file_size": 541,
+			"file_write_time": 131935980984220599,
+			"settings":
+			{
+				"buffer_size": 542,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/jasmi/LocalGit/class-content/03-Python/2/Activities/09-Ins_WriteCSV/Solved/write.py",
+			"settings":
+			{
+				"buffer_size": 522,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"remoe",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/jasmi/LocalGit/class-content/03-Python",
+		"/C/Users/jasmi/LocalGit/class-content/03-Python/2",
+		"/C/Users/jasmi/LocalGit/class-content/03-Python/2/Activities"
+	],
+	"file_history":
+	[
+		"/C/Users/jasmi/LocalGit/class-content/03-Python/3/Activities/01-Stu_CerealCleaner/Unsolved/cereal_unsolved.py",
+		"/C/Users/jasmi/LocalGit/class-content/03-Python/1/Activities/10-Stu_RockPaperScissors/Unsolved/RPS_Unsolved.py",
+		"/C/Users/jasmi/LocalGit/class-content/03-Python/1/Activities/02-Stu_TerminalTest/Unsolved/LearnPython/Assignment2/variables.ipynb",
+		"/C/Users/jasmi/Downloads/variables.py",
+		"/C/Users/jasmi/LocalGit/class-content/03-Python/1/Activities/02-Stu_TerminalTest/Unsolved/LearnPython/Assignment1/quick_python.py",
+		"/C/Users/jasmi/LocalGit/class-content/03-Python/1/Activities/02-Stu_TerminalTest/Unsolved/LearnPython/Assignment2/quick_python2.py",
+		"/C/Users/jasmi/LocalGit/class-content/03-Python/1/Activities/09-Ins_List/Solved/lists.py",
+		"/C/Users/jasmi/test.vbs",
+		"/C/Users/jasmi/LocalGit/class-content/02-VBA-Scripting/3/Activities/02-Ins_Formatter/Solved/formatter.vbs"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/jasmi/LocalGit/class-content/03-Python/3/Activities/05-Stu_List_Comprehensions/Unsolved/comprehensions.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 542,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1,
+								1
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/jasmi/LocalGit/class-content/03-Python/2/Activities/09-Ins_WriteCSV/Solved/write.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 522,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								522,
+								522
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "python_class_content.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 279.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
